@@ -1,0 +1,9 @@
+[package]
+name = "thermal-equilibrium"
+version = "0.1.0"
+description = "Thermal metaphor for multi-agent load balancing"
+repository = "https://github.com/SuperInstance/thermal-equilibrium"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
